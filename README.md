@@ -1,6 +1,6 @@
 # Hi, I'm Rashed Rana 👋
 
-🎓 Computer Science student (AIUB), currently based in Erlangen, Germany
+🎓 Master's student in Artificial Intelligence for Industrial Applications at OTH Amberg-Weiden · BSc background in Computer Science (AIUB) · based in Erlangen
 🐍 Python developer focused on Data, Machine Learning and NLP
 📊 I work with pandas, NumPy, scikit-learn, matplotlib and SQLite
 🤝 Open-source contributor — first PR in PyTorch: pytorch/pytorch#204538
