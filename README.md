@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rashed Rana 👋
 
-<!--
-**rashedrana/rashedrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student (AIUB), currently based in Erlangen, Germany
+🐍 Python developer focused on Data, Machine Learning and NLP
+📊 I work with pandas, NumPy, scikit-learn, matplotlib and SQLite
+🤝 Open-source contributor — first PR in PyTorch: pytorch/pytorch#204538
+🌱 Currently learning: NLP and production ML (Docker, testing, CI/CD)
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 **CO₂ Emissions Data Analysis** — data-engineering project from the FAU MADE course: pandas pipeline → SQLite → matplotlib analysis ([rana-made](https://github.com/rashedrana/rana-made))
+- 🔥 **PyTorch documentation fix** — [PR #204538](https://github.com/pytorch/pytorch/pull/204538)
+
+## Tech stack
+
+Python · pandas · NumPy · scikit-learn · PyTorch · SQL / SQLite · Git & GitHub · C# · Dart / Flutter
+
+---
+
+*"When I lose, experience is my reward."*
