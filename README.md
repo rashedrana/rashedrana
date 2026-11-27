@@ -3,15 +3,17 @@
 Master's student in Artificial Intelligence for Industrial Applications at OTH Amberg-Weiden · BSc background in Computer Science (AIUB) · based in Erlangen
 Python developer focused on Data, Machine Learning and NLP
 I work with pandas, NumPy, scikit-learn, matplotlib and SQLite
-Open-source contributor — first merged PR in PyTorch: pytorch/pytorch#204538
+Open-source contributor — two merged PRs in PyTorch: pytorch/pytorch#204538 and pytorch/pytorch#206165
 Currently learning: NLP and production ML (Docker, testing, CI/CD)
 
 ## Open Source Contributions
 
 - **PyTorch** — [PR #204538](https://github.com/pytorch/pytorch/pull/204538) merged: fixed section headers in the `svd_lowrank` / `pca_lowrank` docstrings
+- **PyTorch** — [PR #206165](https://github.com/pytorch/pytorch/pull/206165) merged — second merged PyTorch PR: Document single-element tuple support in `avg_pool3d` docs
 - **pandas** — [PR #72091](https://github.com/pandas-dev/pandas/pull/72091): `Series.str.get_dummies` keeps the original index (under review)
 - **pandas** — [PR #72197](https://github.com/pandas-dev/pandas/pull/72197): `DataFrame.shift` with multiple periods on an empty frame (open)
 - **PyTorch** — [PR #204908](https://github.com/pytorch/pytorch/pull/204908): `nuttall` window docstring fix (open)
+- **PyTorch** — [PR #205564](https://github.com/pytorch/pytorch/pull/205564): [optim] Fix `CyclicLR.load_state_dict` mutating the checkpoint it is given (open)
 
 ## Featured work
 
